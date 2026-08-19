@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Yagron.github.io/archive-iaz0kw/sitemap.xml
